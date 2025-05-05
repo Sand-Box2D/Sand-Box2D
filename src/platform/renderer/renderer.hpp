@@ -3,6 +3,7 @@
 #pragma once
 
 #include <memory>
+#include <cstdint>
 
 /// @brief Declaration of platform-specific Renderer data.
 struct RendererSpecific;
